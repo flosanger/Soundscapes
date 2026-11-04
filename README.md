@@ -1,16 +1,8 @@
-Codes used in paper: 
-Hyper-arid soundscapes: an exploratory study of bioacoustics indices in Saudi Arabia
+Hyper‑Arid Soundscapes: Code & Results Repository
+Ecoacoustic analysis of spring soundscapes in Saudi Arabian protected areas
+This repository contains all code, workflows, and processed outputs associated with the manuscript:
 
-Florencia Sangermanoa1, Mariska Weijermana2*, Aparajita Tyagi1, Rab Nawaz2, Abdullatif Al-Abdulwahab2 
-1Graduate School of Geography, Clark University, Worcester, MA 01610, USA
-2Imam Abdulaziz bin Mohammed Royal Reserve Development Authority, Riyadh, 13531, Saudi Arabia
+Sangermano et al. (2026). Hyper‑arid soundscapes: an exploratory study of bioacoustic indices in Saudi Arabia.  
+Clark University & Imam Abdulaziz bin Mohammed Royal Reserve Development Authority
 
-
-AcousticIndexCalculation: Calculates acoustic indices after filtering files found to have weather contamination (YAMNet result)
-
-AggreageteMeanHour: Aggregates Acoustic indices to extract the mean acoustic index per hour. 
-
-CheckPeriodData: Assess adequacy of data availability after filtering weather events. Identify periods for further analysis
-
-Reserve and site comparisons: BAM models to answer the questions in the manuscript. 
-
+The study analyzes spring soundscapes from five passive acoustic monitoring sites across two Royal Reserves—Imam Abdulaziz bin Mohammed Royal Reserve (IARR) and King Khalid Royal Reserve (KKRR)—using ecoacoustic indices and generalized additive mixed models (GAMMs).

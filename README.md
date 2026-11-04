@@ -7,7 +7,10 @@ Florencia Sangermanoa1, Mariska Weijermana2*, Aparajita Tyagi1, Rab Nawaz2, Abdu
 
 
 AcousticIndexCalculation: Calculates acoustic indices after filtering files found to have weather contamination (YAMNet result)
+
 AggreageteMeanHour: Aggregates Acoustic indices to extract the mean acoustic index per hour. 
+
 CheckPeriodData: Assess adequacy of data availability after filtering weather events. Identify periods for further analysis
+
 Reserve and site comparisons: BAM models to answer the questions in the manuscript. 
 

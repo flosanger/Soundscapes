@@ -1,8 +1,14 @@
-Hyper‑Arid Soundscapes: Code & Results Repository
-Ecoacoustic analysis of spring soundscapes in Saudi Arabian protected areas
-This repository contains all code, workflows, and processed outputs associated with the manuscript:
+<h1 style="font-size:32px; font-weight:700;">Hyper‑arid soundscapes: an exploratory study of bioacoustic indices in Saudi Arabia: Code & Results Repository</h1>
 
-Sangermano et al. (2026). Hyper‑arid soundscapes: an exploratory study of bioacoustic indices in Saudi Arabia.  
-Clark University & Imam Abdulaziz bin Mohammed Royal Reserve Development Authority
+<p>
+This repository contains all code, workflows, and processed outputs associated with the manuscript.
+</p>
 
-The study analyzes spring soundscapes from five passive acoustic monitoring sites across two Royal Reserves—Imam Abdulaziz bin Mohammed Royal Reserve (IARR) and King Khalid Royal Reserve (KKRR)—using ecoacoustic indices and generalized additive mixed models (GAMMs).
+<p>
+These scripts were used in the manuscript:<br>
+<strong>Sangermano, F., Weijerman, A. Tyagi, M., Nawaz, R., & Al‑Abdulwahab, S. (2026).<br>
+<i>Hyper‑arid soundscapes: an exploratory study of bioacoustic indices in Saudi Arabia.</i></strong>
+</p>
+
+<hr>
+
